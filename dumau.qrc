@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>checker_dumau/logo.jpg</file>
+  </qresource>
+  <qresource prefix="ico">
+    <file>checker_dumau/hota.ico</file>
+  </qresource>
+    <qresource prefix="ui">
+    <file>checker_dumau/checker.ui</file>
+  </qresource>
+</RCC>
